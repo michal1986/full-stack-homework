@@ -6,6 +6,7 @@
 
 2. Instead of integration / unit tests I wrote very simple Playwright E2E tests
 3. Database schema is inside docker-entrypoint-initdb.d/init.sql
+4. The reason I've used 'docker-compose' is that I simply always use it, so sorry that you need to exec different command :)
 
 
 
