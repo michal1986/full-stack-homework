@@ -1,6 +1,7 @@
 #### MICHAL DECISIONS ####
 
 1. I decided to use API Routes and not React Server Components because:
+
    a) this seems to be some kind of dashboard type of app, so SEO is not needed (of course it lacks 'auth' module)
    b) app is rather simple so we won't gain THAT much with RSC, but in future I would consider changing approach
 
