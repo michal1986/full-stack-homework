@@ -4,9 +4,9 @@
    a) this seems to be some kind of dashboard type of app, so SEO is not needed (of course it lacks 'auth' module)
    b) app is rather simple so we won't gain THAT much with RSC, but in future I would consider changing approach
 
-2. Instead of integration / unit tests I wrote very simple Playwright E2E tests
-3. Database schema is inside docker-entrypoint-initdb.d/init.sql
-4. The reason I've used 'docker-compose' is that I simply always use it, so sorry that you need to exec different command :)
+3. Instead of integration / unit tests I wrote very simple Playwright E2E tests
+4. Database schema is inside docker-entrypoint-initdb.d/init.sql
+5. The reason I've used 'docker-compose' is that I simply always use it, so sorry that you need to exec different command :)
 
 
 
